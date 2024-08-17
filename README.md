@@ -1,4 +1,4 @@
 # yofirst
 this is my first git repository
 <br>
-Author-Manisha
+Author-Merugu Manisha
